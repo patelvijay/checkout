@@ -1,0 +1,6 @@
+build/**
+.DS_Store
+*.txt
+build.sh
+/.idea/*
+/My Demo App.xcworkspace/xcuserdata/*
